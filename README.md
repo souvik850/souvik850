@@ -7,7 +7,7 @@ In case of local environment, the URL is http://localhost:4000/graphql
 
 Step 1: run npm install after downloading the project.
 
-Step2: then run the command npm run start
+Step 2: then run the command npm run start
 
 **GraphQl Queries**
 
