@@ -1,4 +1,5 @@
-**Project Description:** This is Microservice project with GraphQL, Node JS Express and MongoDB Atlas. Customer crude operations are done in this project. Project is hosted in heroku.
+**Project Description** 
+This is Microservice project with GraphQL, Node JS Express and MongoDB Atlas. Customer crude operations are done in this project. Project is hosted in heroku.
 API URL: https://insync-api-commerce.herokuapp.com/graphql
 In case of local environment, the URL is http://localhost:4000/graphql
 
@@ -8,9 +9,7 @@ Step 1: run npm install after downloading the project.
 
 Step2: then run the command npm run start
 
-GraphQl Queries
-
-/* 
+**GraphQl Queries**
 
 1. Create user
   mutation {
@@ -25,7 +24,9 @@ GraphQl Queries
         user_password
     }
 } 
-Method: POST
+
+**Method: POST**
+
 =====================================
 2. Display All Users
 {
@@ -39,7 +40,9 @@ Method: POST
         user_password
    }
 }
-Method: GET
+
+**Method: GET**
+
 =========================================
 
 3. Get User By id
@@ -54,7 +57,9 @@ Method: GET
         user_password
     }
 }
-Method: POST
+
+**Method: POST**
+
 ===========================================
 
 4. Update User By id
@@ -69,7 +74,9 @@ mutation {
         user_password
     }
 }
-Method: POST
+
+**Method: POST**
+
 ===============================================
 
 5. Delete User By id
@@ -78,5 +85,6 @@ mutation{
        id
    }
 }
-Method: POST
-*/
+
+**Method: POST**
+
