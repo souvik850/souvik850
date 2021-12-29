@@ -4,7 +4,8 @@
   "description": "Customer API",
   "main": "index.js",
   "scripts": {
-    "serve": "nodemon ./index.js localhost 4000"
+    "serve": "nodemon ./index.js localhost 4000",
+    "start": "node index.js"
   },
   "author": "InSync",
   "license": "ISC",
