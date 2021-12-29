@@ -1,0 +1,25 @@
+{
+  "name": "apistack",
+  "version": "1.0.0",
+  "description": "Customer API",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon ./index.js localhost 4000"
+  },
+  "author": "InSync",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.2.0",
+    "mongoose": "^6.1.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
