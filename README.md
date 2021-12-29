@@ -28,6 +28,7 @@ Step2: then run the command npm run start
 **Method: POST**
 
 =====================================
+
 2. Display All Users
 {
    users{
