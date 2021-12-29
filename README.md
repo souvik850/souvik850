@@ -1,6 +1,8 @@
 **Project Description:** This is Microservice project with GraphQL, Node JS Express and MongoDB Atlas. Customer crude operations are done in this project. Project is hosted in heroku.
 API URL: https://insync-api-commerce.herokuapp.com/graphql
 In case of local environment, the URL is http://localhost:4000/graphql
+
+**Project Set-up**
 Step 1: run npm install after downloading the project.
 Step2: then run the command npm run start
 
